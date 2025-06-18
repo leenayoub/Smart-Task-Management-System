@@ -1,0 +1,100 @@
+Employee1,Brand Identity;Project Management;Content Strategy,6
+Employee2,Flutter;React Native;SEO,6
+Employee3,Data Modeling;Digital Marketing;AI;SEO,8
+Employee4,Content Strategy;SEO;Content Creation;React Native,6
+Employee5,Linux;Project Management;Software Development;Content Creation,6
+Employee6,System Administration;Network Security;Cybersecurity;Software Development;UI/UX Design,7
+Employee7,UI/UX Design;Machine Learning;React Native;Software Development;Business Strategy,9
+Employee8,UI/UX Design;Agile Management;Copywriting;AI,8
+Employee9,Data Engineering;Mobile Development;User Research,9
+Employee10,Penetration Testing;Content Strategy;Cloud Infrastructure;Machine Learning;Software Development,9
+Employee11,API Design;Cybersecurity;React Native,10
+Employee12,Business Strategy;Cloud Infrastructure;User Research;Data Science,9
+Employee13,Agile Management;Graphic Design;Database Management;AI;SEO,7
+Employee14,Project Management;User Research;React Native;Database Management,6
+Employee15,Business Strategy;Cybersecurity;Data Engineering;Digital Marketing;Machine Learning,7
+Employee16,System Administration;Business Strategy;Content Creation;Penetration Testing,6
+Employee17,UI/UX Design;Graphic Design;Database Management;Mobile Development;Cybersecurity,6
+Employee18,SQL;Copywriting;Brand Identity;Machine Learning;Mobile Development,9
+Employee19,Database Management;Flutter;Agile Management,7
+Employee20,Project Management;Data Engineering;Business Strategy;Mobile Development,7
+Employee21,Project Management;UI/UX Design;Flutter;Cybersecurity;Database Management,9
+Employee22,Cybersecurity;System Administration;Network Security,7
+Employee23,Copywriting;Cybersecurity;Agile Management,7
+Employee24,User Research;SQL;Data Science,9
+Employee25,Database Management;AI;UI/UX Design;Data Modeling;Business Strategy,7
+Employee26,Database Management;Data Modeling;Copywriting;Machine Learning;Business Strategy,10
+Employee27,AI;SEO;Data Science;Data Engineering;Business Strategy,9
+Employee28,Business Strategy;Database Management;UI/UX Design;Cloud Infrastructure;System Administration,9
+Employee29,Mobile Development;Machine Learning;Data Modeling;SQL;Graphic Design,10
+Employee30,Business Strategy;UI/UX Design;SQL;Content Strategy;React Native,8
+Employee31,Linux;Network Security;Data Engineering;API Design,9
+Employee32,Brand Identity;Software Development;Data Modeling;Mobile Development;Data Science,10
+Employee33,Digital Marketing;Flutter;Linux;Data Modeling,6
+Employee34,Graphic Design;Brand Identity;Database Management;Data Engineering;Flutter,10
+Employee35,Brand Identity;Penetration Testing;User Research;Cybersecurity;Business Strategy,6
+Employee36,Database Management;Software Development;Copywriting,9
+Employee37,Software Development;Data Modeling;Cloud Infrastructure;Data Science,9
+Employee38,Cybersecurity;UI/UX Design;Agile Management;Content Strategy,8
+Employee39,Digital Marketing;Data Engineering;Cloud Infrastructure;Machine Learning;Cybersecurity,9
+Employee40,Brand Identity;Penetration Testing;AI;Business Strategy,8
+Employee41,API Design;Content Strategy;SQL;Data Modeling;System Administration,7
+Employee42,Mobile Development;React Native;Content Creation,7
+Employee43,Penetration Testing;Cloud Infrastructure;Content Creation;Data Modeling;Data Science,8
+Employee44,Flutter;Business Strategy;Content Strategy;API Design;SEO,10
+Employee45,Project Management;Digital Marketing;Software Development;Network Security;API Design,7
+Employee46,Data Modeling;Linux;Digital Marketing;Cloud Infrastructure,6
+Employee47,Data Engineering;System Administration;Linux,9
+Employee48,React Native;Agile Management;Linux;SQL;Data Science,10
+Employee49,Cloud Infrastructure;Linux;Copywriting;System Administration,10
+Employee50,Content Strategy;Content Creation;Network Security,9
+Employee51,Cloud Infrastructure;Software Development;React Native;Data Science;Cybersecurity,8
+Employee52,Agile Management;Database Management;Brand Identity;Copywriting;System Administration,10
+Employee53,Copywriting;SQL;Cybersecurity;React Native;AI,10
+Employee54,Mobile Development;Graphic Design;Data Science;Software Development;Penetration Testing,8
+Employee55,Copywriting;Content Creation;Graphic Design;Network Security,7
+Employee56,Cybersecurity;Data Engineering;Data Science,8
+Employee57,SEO;SQL;Content Strategy;Network Security;Project Management,6
+Employee58,Cloud Infrastructure;React Native;Penetration Testing;User Research,10
+Employee59,SQL;API Design;Machine Learning,8
+Employee60,Graphic Design;Cybersecurity;Data Science,9
+Employee61,Data Science;React Native;SEO;Software Development;AI,7
+Employee62,Business Strategy;React Native;Digital Marketing;Mobile Development;Data Engineering,10
+Employee63,Brand Identity;Penetration Testing;User Research;Project Management,7
+Employee64,Cybersecurity;SQL;Machine Learning;API Design;Data Modeling,6
+Employee65,Project Management;Copywriting;Penetration Testing;SEO,7
+Employee66,SQL;React Native;Machine Learning;UI/UX Design,7
+Employee67,Cybersecurity;UI/UX Design;Software Development,10
+Employee68,Graphic Design;Content Creation;Data Science;React Native,8
+Employee69,Data Engineering;System Administration;Cloud Infrastructure,10
+Employee70,Data Science;Business Strategy;User Research,8
+Employee71,API Design;Content Strategy;Linux;Copywriting,6
+Employee72,Database Management;Graphic Design;Data Modeling;Digital Marketing;Content Strategy,6
+Employee73,Flutter;Data Science;Digital Marketing;Mobile Development,8
+Employee74,Software Development;Data Modeling;React Native,8
+Employee75,Database Management;Content Creation;Software Development;Graphic Design,6
+Employee76,Flutter;Data Modeling;React Native;Linux,6
+Employee77,Content Creation;Machine Learning;Software Development;Brand Identity,8
+Employee78,UI/UX Design;Database Management;Penetration Testing;Data Science,10
+Employee79,Content Strategy;UI/UX Design;Brand Identity;Penetration Testing;Copywriting,7
+Employee80,UI/UX Design;Software Development;Brand Identity,9
+Employee81,Cybersecurity;UI/UX Design;Linux;Digital Marketing;Data Modeling,9
+Employee82,User Research;SQL;Data Modeling,9
+Employee83,Data Science;Cybersecurity;Cloud Infrastructure;Data Modeling;AI,6
+Employee84,Agile Management;Cybersecurity;Database Management,8
+Employee85,Content Strategy;System Administration;Database Management;Machine Learning,7
+Employee86,Data Engineering;Content Strategy;React Native,10
+Employee87,Cybersecurity;Copywriting;UI/UX Design,6
+Employee88,SQL;Penetration Testing;Data Modeling,10
+Employee89,Database Management;Mobile Development;User Research;Project Management;Network Security,7
+Employee90,Agile Management;Data Science;SQL;Brand Identity;AI,6
+Employee91,Project Management;Data Modeling;API Design;Flutter,9
+Employee92,Cybersecurity;Project Management;Linux;Data Modeling,8
+Employee93,Database Management;Agile Management;Digital Marketing;Linux,6
+Employee94,Business Strategy;Flutter;API Design;Software Development;User Research,8
+Employee95,Machine Learning;SQL;Digital Marketing,7
+Employee96,User Research;SQL;Agile Management;SEO;AI,6
+Employee97,User Research;Mobile Development;Project Management;Copywriting;Penetration Testing,7
+Employee98,API Design;Database Management;Brand Identity;AI,9
+Employee99,API Design;Penetration Testing;User Research;Graphic Design;Content Strategy,10
+Employee100,Business Strategy;Database Management;AI,9

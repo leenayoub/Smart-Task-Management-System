@@ -1,0 +1,10 @@
+Train ML Model,Machine Learning,4
+Write Blog Article,Copywriting,1
+Normalize Sales Database,SQL,2
+Conduct Penetration Test,Cybersecurity,3
+Build Mobile Login Screen,Flutter,3
+Design Landing Page,UI/UX Design,2
+Prepare Business Report,Business Strategy,1
+Deploy Ubuntu Server,System Administration,2
+Optimize Marketing Funnel,Digital Marketing,2
+Develop API Endpoint,Software Development,3
